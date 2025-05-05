@@ -26,7 +26,7 @@ sudo apt install chkrootkit rkhunter -y</code></pre>
 
   <h3>🚀 Como usar</h3>
   <pre><code>git clone https://github.com/seuusuario/rootkit-scan-quarantine.git
-cd rootkit-scan-quarantine
+cd rootkits_auto
 chmod +x rootkit_scan_quarentena.sh
 ./rootkit_scan_quarentena.sh</code></pre>
 
