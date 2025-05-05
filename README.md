@@ -52,7 +52,7 @@ of this software and associated documentation files...</code></pre>
 
   <p>No seu terminal:</p>
   <pre><code>git init
-git remote add origin https://github.com/SEU_USUARIO/rootkit-scan-quarantine.git
+git remote add origin https://github.com/sucloudflare/rootkits_auto.git
 git add .
 git commit -m "Initial commit - script de rootkit com quarentena"
 git push -u origin master</code></pre>
